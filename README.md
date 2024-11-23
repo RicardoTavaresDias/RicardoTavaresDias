@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" /><i class="fa-solid fa-file-code" style="font-size: "40px" ></i>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=087cbc&height=120&section=header"/>
 
-# 👩🏻‍💻 Ricardo Tavares <i class="fa-solid fa-file-code" style="font-size: "40px" ></i>
+# 👩🏻‍💻 Ricardo Tavares
 
 **`Suporte Tecnologia da Informação`**
 
