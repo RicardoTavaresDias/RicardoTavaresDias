@@ -72,7 +72,7 @@ Olá, me chamo Ricardo Tavares, Tenho 37 anos sou natural de São Paulo, formado
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RicardoTavaresDias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
