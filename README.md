@@ -12,7 +12,7 @@ Olá, me chamo Ricardo Tavares, Tenho 37 anos sou natural de São Paulo, formado
  
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /><br/></br/>
+<img src="https://komarev.com/ghpvc/?username=RicardoTavaresDias&color=yellow" alt="Profile views" /><br/></br/>
     <a href = "mailto:ricardo.ti.sistemas@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
