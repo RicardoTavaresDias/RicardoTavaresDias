@@ -19,7 +19,7 @@ Olá, me chamo Ricardo Tavares, Tenho 37 anos sou natural de São Paulo, formado
     <a href="https://www.linkedin.com/in/ricardo-oliveira-dias-36b799a1"      target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/RicardoTavaresDias?tab=following">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
