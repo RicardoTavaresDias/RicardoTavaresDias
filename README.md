@@ -77,6 +77,14 @@ Olá, me chamo Ricardo Tavares, Tenho 37 anos sou natural de São Paulo, formado
 />
 <img 
     align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
